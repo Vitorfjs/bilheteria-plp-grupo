@@ -1,5 +1,7 @@
 # Bilheteria concorrente
 
+**Link do vídeo:** `[INSERIR O LINK DO VÍDEO APÓS A GRAVAÇÃO]`
+
 Projeto final de Paradigmas de Linguagens de Programação. Enunciado completo no Blackboard.
 
 Os arquivos de `src/` que vocês escrevem já existem, vazios; o `tipos.ts` e o `servidor.ts` vêm prontos. O que vai em cada um está no passo
@@ -36,16 +38,14 @@ curl -X POST localhost:3000/reservas -H 'Content-Type: application/json' \
 
 ## Preencham (avaliado no vídeo)
 
-**Link do vídeo:** `[INSERIR O LINK DO VÍDEO APÓS A GRAVAÇÃO]`
-
 ### Integrantes
 
 | Nome | RGM | Usuário do GitHub | Parte principal |
 | :--- | :--- | :--- | :--- |
-| Vitor `[CONFERIR NOME COMPLETO]` | `[CONFERIR RGM]` | [Vitorfjs](https://github.com/Vitorfjs) | `regras.ts` e `preco.ts`: meia-entrada e cálculo de preço funcional |
-| Miguel Figueiredo `[CONFERIR NOME COMPLETO]` | `[CONFERIR RGM]` | [miguel-ffo](https://github.com/miguel-ffo) | `dominio.ts`: hierarquia de erros e classe `Evento` (OO) |
-| Rafael Almeida `[CONFERIR NOME COMPLETO]` | `[CONFERIR RGM]` | [rrafaum](https://github.com/rrafaum) | `bilheteria.ts`: venda concorrente, tempo limite e estorno |
-| Kaike Garcia `[CONFERIR NOME COMPLETO]` | 35843179 | [Kaikefgg7](https://github.com/Kaikefgg7) | `main.ts`, execução do bench e `README.md` |
+| Vitor Ferreira | 35287420 | [Vitorfjs](https://github.com/Vitorfjs) | `regras.ts` e `preco.ts`: meia-entrada e cálculo de preço funcional |
+| Miguel Figueiredo | 35509449 | [miguel-ffo](https://github.com/miguel-ffo) | `dominio.ts`: hierarquia de erros e classe `Evento` (OO) |
+| Rafael Queiroz | 35131608 | [rrafaum](https://github.com/rrafaum) | `bilheteria.ts`: venda concorrente, tempo limite e estorno |
+| Kaike Garcia | 35843179 | [Kaikefgg7](https://github.com/Kaikefgg7) | `main.ts`, execução do bench e `README.md` |
 
 ### Decisões
 
