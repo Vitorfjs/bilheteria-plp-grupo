@@ -1,6 +1,6 @@
 # Bilheteria concorrente
 
-**Link do vídeo:** `[INSERIR O LINK DO VÍDEO APÓS A GRAVAÇÃO]`
+**Link do vídeo:** `https://www.youtube.com/watch?v=6Cyt0YPEu-A`
 
 Projeto final de Paradigmas de Linguagens de Programação. Enunciado completo no Blackboard.
 
